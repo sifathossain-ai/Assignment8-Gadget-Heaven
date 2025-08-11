@@ -1,8 +1,8 @@
 [
   {
     "product_id": "GS3001",
-    "product_title": "Gaming Laptop Pro 15",
-    "product_image": "https://ibb.co.com/HDFwRyCX",
+    "product_title": "Gaming Laptop",
+    "product_image": "https://i.ibb.co.com/C51C4y6W/modern-stationary-collection-arrangement.jpg",
     "category": "Laptops",
     "price": 1299.99,
     "description": "High-performance gaming laptop with RTX graphics and fast SSD.",
@@ -15,7 +15,7 @@
   {
     "product_id": "GS3002",
     "product_title": "UltraBook Air X",
-    "product_image": "https://via.placeholder.com/300?text=Laptop",
+    "product_image": "https://i.ibb.co.com/27b8Y21G/laptop-with-sun-background.jpg",
     "category": "Laptops",
     "price": 999.99,
     "description": "Lightweight ultrabook with long battery life and sleek design.",
@@ -27,8 +27,8 @@
   },
   {
     "product_id": "GS3003",
-    "product_title": "WorkMate Business Pro",
-    "product_image": "https://via.placeholder.com/300?text=Laptop",
+    "product_title": "WorkMate Pro",
+    "product_image": "https://i.ibb.co.com/fVtgghSn/laptop-pencils-arrangement.jpg",
     "category": "Laptops",
     "price": 849.99,
     "description": "Business laptop with fingerprint security and productivity features.",
@@ -40,8 +40,8 @@
   },
   {
     "product_id": "GS3004",
-    "product_title": "Budget Student Laptop",
-    "product_image": "https://via.placeholder.com/300?text=Laptop",
+    "product_title": "Student Laptop",
+    "product_image": "https://i.ibb.co.com/C51C4y6W/modern-stationary-collection-arrangement.jpg",
     "category": "Laptops",
     "price": 499.99,
     "description": "Affordable laptop for students with decent performance.",
@@ -54,7 +54,7 @@
   {
     "product_id": "GS3005",
     "product_title": "Creator Studio 17",
-    "product_image": "https://via.placeholder.com/300?text=Laptop",
+    "product_image": "https://i.ibb.co.com/fVtgghSn/laptop-pencils-arrangement.jpg",
     "category": "Laptops",
     "price": 1599.99,
     "description": "Laptop designed for creators with color-accurate display.",
@@ -67,7 +67,7 @@
   {
     "product_id": "GS3006",
     "product_title": "Flagship Pro Max",
-    "product_image": "https://via.placeholder.com/300?text=Phone",
+    "product_image": "https://i.ibb.co.com/Z6mMdrh4/creative-reels-composition.jpg",
     "category": "Phone",
     "price": 1199.99,
     "description": "Premium flagship smartphone with best-in-class camera.",
@@ -80,7 +80,7 @@
   {
     "product_id": "GS3007",
     "product_title": "Budget Smart X2",
-    "product_image": "https://via.placeholder.com/300?text=Phone",
+    "product_image": "https://i.ibb.co.com/ZRjSnhJ2/pexels-luckysam-47261.jpg",
     "category": "Phone",
     "price": 299.99,
     "description": "Affordable smartphone with all-day battery life.",
@@ -93,7 +93,7 @@
   {
     "product_id": "GS3008",
     "product_title": "FoldX Infinity",
-    "product_image": "https://via.placeholder.com/300?text=Phone",
+    "product_image": "https://i.ibb.co.com/spNsLCCj/pexels-asphotograpy-887751.jpg",
     "category": "Phone",
     "price": 1899.99,
     "description": "Futuristic foldable smartphone with edge-to-edge display.",
@@ -106,7 +106,7 @@
   {
     "product_id": "GS3009",
     "product_title": "Compact Mini Pro",
-    "product_image": "https://via.placeholder.com/300?text=Phone",
+    "product_image": "https://i.ibb.co.com/ZRjSnhJ2/pexels-luckysam-47261.jpg",
     "category": "Phone",
     "price": 499.99,
     "description": "Small form factor smartphone for one-handed use.",
@@ -119,7 +119,7 @@
   {
     "product_id": "GS3010",
     "product_title": "CameraKing Ultra",
-    "product_image": "https://via.placeholder.com/300?text=Phone",
+    "product_image": "https://i.ibb.co.com/bM8LxFQm/pexels-nietjuhart-1693627.jpg",
     "category": "Phone",
     "price": 1099.99,
     "description": "Phone with 200MP camera for professional photography.",
@@ -131,8 +131,8 @@
   },
   {
     "product_id": "GS3011",
-    "product_title": "Wireless Noise Cancelling Headphones",
-    "product_image": "https://via.placeholder.com/300?text=Accessories",
+    "product_title": "Wireless Headphones",
+    "product_image": "https://i.ibb.co.com/Sw7VM5wM/pexels-thepaintedsquare-583842.jpg",
     "category": "Accessories",
     "price": 199.99,
     "description": "High-fidelity headphones with active noise cancellation.",
@@ -144,8 +144,8 @@
   },
   {
     "product_id": "GS3012",
-    "product_title": "Portable Bluetooth Speaker",
-    "product_image": "https://via.placeholder.com/300?text=Accessories",
+    "product_title": "Bluetooth Speaker",
+    "product_image": "https://i.ibb.co.com/n88jP5Bn/pexels-polina-kovaleva-5827823.jpg",
     "category": "Accessories",
     "price": 59.99,
     "description": "Waterproof portable speaker with deep bass.",
@@ -157,8 +157,8 @@
   },
   {
     "product_id": "GS3013",
-    "product_title": "Smartphone Tripod Stand",
-    "product_image": "https://via.placeholder.com/300?text=Accessories",
+    "product_title": "Smartphone Tripod",
+    "product_image": "https://i.ibb.co.com/Kjy9LsQ7/pexels-ken-tomita-127057-389819.jpg",
     "category": "Accessories",
     "price": 29.99,
     "description": "Adjustable tripod with Bluetooth remote.",
@@ -171,7 +171,7 @@
   {
     "product_id": "GS3014",
     "product_title": "USB-C Docking Station",
-    "product_image": "https://via.placeholder.com/300?text=Accessories",
+    "product_image": "https://i.ibb.co.com/VWDQTkCk/pexels-fauxels-3184160.jpg",
     "category": "Accessories",
     "price": 89.99,
     "description": "Multiport hub with HDMI, USB, and Ethernet.",
@@ -183,8 +183,8 @@
   },
   {
     "product_id": "GS3015",
-    "product_title": "Wireless Charging Pad",
-    "product_image": "https://via.placeholder.com/300?text=Accessories",
+    "product_title": "Wireless Charging",
+    "product_image": "https://i.ibb.co.com/tTs1mdbX/pexels-pavel-danilyuk-8001069.jpg",
     "category": "Accessories",
     "price": 39.99,
     "description": "Fast Qi wireless charger for phones and earbuds.",
@@ -196,8 +196,8 @@
   },
   {
     "product_id": "GS3016",
-    "product_title": "Luxury Smartwatch Series 7",
-    "product_image": "https://via.placeholder.com/300?text=Watch",
+    "product_title": "Smartwatch Series 7",
+    "product_image": "https://i.ibb.co.com/Swnfs93Q/pexels-ferarcosn-190819.jpg",
     "category": "Watches",
     "price": 499.99,
     "description": "Premium smartwatch with ECG and GPS tracking.",
@@ -210,7 +210,7 @@
   {
     "product_id": "GS3017",
     "product_title": "Sports Smartwatch X",
-    "product_image": "https://via.placeholder.com/300?text=Watch",
+    "product_image": "https://i.ibb.co.com/hRXq9yW8/pexels-pixabay-277390.jpg",
     "category": "Watches",
     "price": 199.99,
     "description": "Fitness-focused smartwatch with advanced tracking.",
@@ -222,8 +222,8 @@
   },
   {
     "product_id": "GS3018",
-    "product_title": "Hybrid Analog-Digital Watch",
-    "product_image": "https://via.placeholder.com/300?text=Watch",
+    "product_title": "Analog-Digital Watch",
+    "product_image": "https://i.ibb.co.com/hRjxB1b5/pexels-tdcat-437037.jpg",
     "category": "Watches",
     "price": 149.99,
     "description": "Stylish hybrid watch with long battery life.",
@@ -235,8 +235,8 @@
   },
   {
     "product_id": "GS3019",
-    "product_title": "Classic Leather Smartwatch",
-    "product_image": "https://via.placeholder.com/300?text=Watch",
+    "product_title": "Leather Smartwatch",
+    "product_image": "https://i.ibb.co.com/qLJ3HkL4/pexels-pixabay-280250.jpg",
     "category": "Watches",
     "price": 249.99,
     "description": "Leather strap smartwatch with AMOLED display.",
@@ -248,8 +248,8 @@
   },
   {
     "product_id": "GS3020",
-    "product_title": "Rugged Adventure Smartwatch",
-    "product_image": "https://via.placeholder.com/300?text=Watch",
+    "product_title": "Adventure Smartwatch",
+    "product_image": "https://i.ibb.co.com/rKND0Xv7/pexels-valentinantonucci-691640.jpg",
     "category": "Watches",
     "price": 299.99,
     "description": "Durable smartwatch for outdoor enthusiasts.",
@@ -262,7 +262,7 @@
   {
     "product_id": "GS3021",
     "product_title": "MacBook Air M3",
-    "product_image": "https://via.placeholder.com/300?text=MacBook",
+    "product_image": "https://i.ibb.co.com/1Y4vXshW/pexels-pixabay-38568.jpg",
     "category": "MacBook",
     "price": 1199.99,
     "description": "Lightweight MacBook Air with Apple's M3 chip.",
@@ -274,8 +274,8 @@
   },
   {
     "product_id": "GS3022",
-    "product_title": "MacBook Pro 14-inch M3 Pro",
-    "product_image": "https://via.placeholder.com/300?text=MacBook",
+    "product_title": "MacBook Pro 14",
+    "product_image": "https://i.ibb.co.com/zHVXG9zd/pexels-veeterzy-303383.jpg",
     "category": "MacBook",
     "price": 1999.99,
     "description": "Professional MacBook Pro with M3 Pro chip for power users.",
@@ -287,8 +287,8 @@
   },
   {
     "product_id": "GS3023",
-    "product_title": "MacBook Air 15-inch M2",
-    "product_image": "https://via.placeholder.com/300?text=MacBook",
+    "product_title": "MacBook Air 15",
+    "product_image": "https://i.ibb.co.com/1Y4vXshW/pexels-pixabay-38568.jpg",
     "category": "MacBook",
     "price": 1399.99,
     "description": "Large-screen MacBook Air with excellent battery life.",
@@ -300,8 +300,8 @@
   },
   {
     "product_id": "GS3024",
-    "product_title": "MacBook Pro 16-inch M3 Max",
-    "product_image": "https://via.placeholder.com/300?text=MacBook",
+    "product_title": "MacBook Pro M3 Max",
+    "product_image": "https://i.ibb.co.com/ds8r3y1z/pexels-ifreestock-577560.jpg",
     "category": "MacBook",
     "price": 3299.99,
     "description": "Top-tier MacBook Pro for professionals and creators.",
@@ -313,8 +313,8 @@
   },
   {
     "product_id": "GS3025",
-    "product_title": "Refurbished MacBook Pro M1",
-    "product_image": "https://via.placeholder.com/300?text=MacBook",
+    "product_title": "MacBook Pro M1",
+    "product_image": "https://i.ibb.co.com/zHVXG9zd/pexels-veeterzy-303383.jpg",
     "category": "MacBook",
     "price": 899.99,
     "description": "Certified refurbished MacBook with M1 chip.",

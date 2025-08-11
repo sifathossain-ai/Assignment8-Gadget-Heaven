@@ -13,10 +13,10 @@ const Products = () => {
             .then(data => setProducts(data))
     }, [])
     return (
-        <div className='md:flex gap-3'>
+        <div className='md:flex gap-4'>
             <div>
-                <div className="dropdown dropdown-bottom">
-                    <div tabIndex={0} role="button" className="btn m-1 flex items-center gap-2 border none bg-purple-600 rounded-full text-white">All Product
+                <div className="dropdown dropdown-bottom mb-3 md:mb-0">
+                    <div tabIndex={0} role="button" className="btn flex items-center gap-2 border none bg-purple-600 rounded-full text-white">Products
                         <FaChevronDown></FaChevronDown>
                     </div>
                     <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-1 w-36 p-1 shadow-sm">
