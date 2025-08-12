@@ -33,7 +33,7 @@
     "price": 849.99,
     "description": "Business laptop with fingerprint security and productivity features.",
     "specification": ["AMD Ryzen 5", "16GB RAM", "512GB SSD", "Windows 11 Pro"],
-    "availability": true,
+    "availability": false,
     "rating": 4.4,
     "brand": "BizMate",
     "release_date": "2023-12-12"
@@ -137,7 +137,7 @@
     "price": 199.99,
     "description": "High-fidelity headphones with active noise cancellation.",
     "specification": ["Bluetooth 5.3", "40 Hours Battery", "USB-C Charging", "ANC"],
-    "availability": true,
+    "availability": false,
     "rating": 4.7,
     "brand": "SoundMax",
     "release_date": "2024-07-01"
@@ -189,7 +189,7 @@
     "price": 39.99,
     "description": "Fast Qi wireless charger for phones and earbuds.",
     "specification": ["10W Fast Charging", "LED Indicator", "Anti-Slip", "Qi Standard"],
-    "availability": true,
+    "availability": false,
     "rating": 4.5,
     "brand": "ChargePro",
     "release_date": "2024-02-09"
@@ -241,7 +241,7 @@
     "price": 249.99,
     "description": "Leather strap smartwatch with AMOLED display.",
     "specification": ["AMOLED", "GPS", "Bluetooth 5.2", "Heart Rate Monitor"],
-    "availability": true,
+    "availability": false,
     "rating": 4.5,
     "brand": "LuxTime",
     "release_date": "2024-04-05"
@@ -267,7 +267,7 @@
     "price": 1199.99,
     "description": "Lightweight MacBook Air with Apple's M3 chip.",
     "specification": ["Apple M3", "8GB RAM", "256GB SSD", "Retina Display"],
-    "availability": true,
+    "availability": false,
     "rating": 4.9,
     "brand": "Apple",
     "release_date": "2024-11-20"
@@ -306,7 +306,7 @@
     "price": 3299.99,
     "description": "Top-tier MacBook Pro for professionals and creators.",
     "specification": ["Apple M3 Max", "32GB RAM", "1TB SSD", "Liquid Retina XDR"],
-    "availability": true,
+    "availability": false,
     "rating": 5.0,
     "brand": "Apple",
     "release_date": "2025-02-05"
