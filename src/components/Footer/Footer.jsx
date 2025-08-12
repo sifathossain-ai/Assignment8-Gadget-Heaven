@@ -14,19 +14,18 @@ const Footer = () => {
                 <nav>
                     <div className='flex flex-col text-center gap-2'>
                         <h6 className="text-base md:text-lg font-bold text-black">Services</h6>
-                        <a className="link link-hover">Branding</a>
-                        <a className="link link-hover">Design</a>
-                        <a className="link link-hover">Marketing</a>
-                        <a className="link link-hover">Advertisement</a>
+                        <a className="link link-hover">Product Support</a>
+                        <a className="link link-hover">Order Tracking</a>
+                        <a className="link link-hover">Shipping & Delivery</a>
+                        <a className="link link-hover">Returns</a>
                     </div>
                 </nav>
                 <nav>
                     <div className='flex flex-col text-center gap-2'>
                         <h6 className="text-base md:text-lg font-bold text-black">Company</h6>
                         <a className="link link-hover">About us</a>
+                        <a className="link link-hover">Careers</a>
                         <a className="link link-hover">Contact</a>
-                        <a className="link link-hover">Jobs</a>
-                        <a className="link link-hover">Press kit</a>
                     </div>
                 </nav>
                 <nav>

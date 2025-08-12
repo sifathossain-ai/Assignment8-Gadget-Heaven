@@ -1,4 +1,5 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
 
 
 /* 
@@ -17,9 +18,9 @@ import React from 'react';
 
 const Product = ({ product }) => {
     // console.log(product);
-    const { product_image, product_title, price } = product;
+    const { product_id, product_image, product_title, price } = product;
     return (
-        <div className="card bg-base-100 p-3 mb:p-4 mb-3 md:mb-0 space-y-3 border border-gray-100">
+        <div className="card bg-base-100 p-4 mb:p-5 mb-4 md:mb-0 space-y-3 border border-gray-50">
             <figure className="">
                 <img
                     src={product_image}
@@ -32,7 +33,9 @@ const Product = ({ product }) => {
                     <p className='text-sm md:text-base text-gray-600'>Price: {price}</p>
                 </div>
                 <div className="card-actions">
-                    <button className="btn btn-sm btn-outline text-purple-600 rounded-full">View Details</button>
+                    <NavLink to={`/details/${product_id}`}>
+                        <button className="btn btn-sm btn-outline text-purple-600 rounded-full">View Details</button>
+                    </NavLink>
                 </div>
             </div>
         </div>
