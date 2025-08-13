@@ -28,13 +28,13 @@ const Details = () => {
      */
 
     return (
-        <div className='mb-[500px] md:mb-96'>
+        <div className='mb-[450px] md:mb-96'>
             <div className='text-center space-y-10 bg-violet-500 text-white h-[400px] md:h-[463px] py-7 px-2 md:py-10'>
                 <div className='space-y-4'>
                     <h2 className='text-2xl md:text-4xl font-semibold'>Product Details</h2>
-                    <p>Explore the latest gadgets that will take your experience to the next level. From smart devices to <br />the coolest accessories, we have it all!</p>
+                    <p>Explore the latest gadgets that will take your experience to the next level. From <br />smart devices</p>
                 </div>
-                <div className='w-full md:max-w-7xl h-[567px] bg-white border border-gray-50 mx-auto rounded-xl md:flex gap-6 items-center p-5 md:p-7'>
+                <div className='container h-[567px] bg-white border border-gray-50 mx-auto rounded-xl md:flex gap-6 items-center p-5 md:p-7'>
                     <div className='md:w-5/12'>
                         <img className='rounded-xl md:h-[510px] object-cover' src={product_image} alt="" />
                     </div>
@@ -58,7 +58,7 @@ const Details = () => {
                             <FaRegStar></FaRegStar>
                         </div>
                         <div className='flex items-center gap-4'>
-                            <button className='btn btn-sm rounded-full bg-violet-500 text-white'> Add To Cart <GrCart className='h-3.5 w-3.5'></GrCart></button>
+                            <button className='btn btn-sm rounded-full bg-violet-500 text-white border-none'> Add To Cart <GrCart className='h-3.5 w-3.5'></GrCart></button>
                             <div className='border p-2 rounded-full'><FaRegHeart></FaRegHeart></div>
                         </div>
                     </div>

@@ -2,8 +2,10 @@ import React from 'react';
 import Navbar from '../Navbar/Navbar';
 import Banner from '../Banner/Banner';
 import Products from '../Products/Products';
+import { useParams } from 'react-router-dom';
 
 const Home = () => {
+    // console.log(category);
     return (
         <div>
             <div className='h-[620px] md:h-[1000px] lg:h-[1450px]'>

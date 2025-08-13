@@ -23,7 +23,9 @@ const Navbar = () => {
                         {Links}
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-lg md:text-xl font-semibold">Gadget Heaven</a>
+                <NavLink to={'/'} className="btn btn-ghost text-lg md:text-xl font-semibold">
+                    Gadget Heaven
+                </NavLink>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
